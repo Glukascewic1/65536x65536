@@ -520,6 +520,14 @@ hr {
     @media screen and (max-width: 480px) {
       .tile.tile-128 {
         font-size: 25px; } }
+  .tile.tile-256 {
+    color: #f9f6f2;
+    background: #ede3a8;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.006), inset 0 0 0 1px rgba(255, 255, 255, 0.0003);
+    font-size: 45px; }
+    @media screen and (max-width: 480px) {
+      .tile.tile-256 {
+        font-size: 25px; } }
   .tile.tile-512 {
     color: #f9f6f2;
     background: #ede798;
